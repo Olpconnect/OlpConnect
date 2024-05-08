@@ -45,13 +45,13 @@ OLPConnect Discovery transforms the OLPCC library experience. This web-based pla
 ## 👥 Creators/Contributors
 We're proud to introduce the talented team behind OLPConnect Discovery:
 
-• Project Manager: ZYRIL EVANGELISTA
-• UI Specialists: KING ERNEST RAMONES, ZYRIL EVANGELISTA
-• UX Specialists: BENEDICT RAMIREZ, KING ERNEST RAMONES, ZYRIL EVANGELISTA
-• Debug and Deployment Specialists: ZYRIL EVANGELISTA, BENEDICT RAMIREZ
-• Maintenance Lead: BENEDICT RAMIREZ
-• Backend Developers: ZYRIL EVANGELISTA, BENEDICT RAMIREZ
-• Frontend Developers: ZYRIL EVANGELISTA
+• Project Manager: ZYRIL EVANGELISTA.
+• UI Specialists: KING ERNEST RAMONES, ZYRIL EVANGELISTA.
+• UX Specialists: BENEDICT RAMIREZ, KING ERNEST RAMONES, ZYRIL EVANGELISTA.
+• Debug and Deployment Specialists: ZYRIL EVANGELISTA, BENEDICT RAMIREZ.
+• Maintenance Lead: BENEDICT RAMIREZ.
+• Backend Developers: ZYRIL EVANGELISTA, BENEDICT RAMIREZ.
+• Frontend Developers: ZYRIL EVANGELISTA.
 
 ## 📞 Contact
 - Project Maintainer: `[Your Name/Team Name]`
