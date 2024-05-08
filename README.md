@@ -26,9 +26,11 @@ OLPConnect Discovery transforms the OLPCC library experience. This web-based pla
 - Phase 1: Core Functionality
   - Database Design
   - Secure Authentication
+  - Input
   - Search Interface
-  - Book Detail Pages
+  - Ebook
   - Borrowing/Return System
+  - Credit
 
 ## 🛠️ Technology Stack
 - Frontend: `HTML, CSS, JavaScript` (_consider React, Vue, or Angular_)
