@@ -54,8 +54,8 @@ We're proud to introduce the talented team behind OLPConnect Discovery:
 - Frontend Developers: ZYRIL EVANGELISTA.
 
 ## 📞 Contact
-- Project Maintainer: `[Your Name/Team Name]`
-- Email: `[Your Email]`
+- Project Maintainer: `TEAMANCOL`
+- Email: `zyril.evangelista@gmail.com`
 
 <p align="center">
   <b>Let's build a fantastic library experience for OLPCC!</b>
